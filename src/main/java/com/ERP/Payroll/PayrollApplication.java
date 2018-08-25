@@ -10,3 +10,4 @@ public class PayrollApplication {
 		SpringApplication.run(PayrollApplication.class, args);
 	}
 }
+
